@@ -1,0 +1,21 @@
+{"trips": [{
+  "id": "5B92A097D4669F24",
+  "place_visit": [
+    {"id": ""},
+    {
+      "id": "DESTINATION_ID",
+      "place": {
+        "lat_lng": {
+          "latitude": 22.645608,
+          "longitude": 92.1925547
+        },
+        "semantic_type": "TYPE_UNKNOWN"
+      }
+    }
+  ],
+  "transition": [{
+    "route": {"travel_mode": "DRIVE"},
+    "origin": {"visit_id": ""},
+    "destination": {"visit_id": "DESTINATION_ID"}
+  }]
+}]}

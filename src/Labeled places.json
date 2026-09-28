@@ -1,0 +1,19 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          90.3795438,
+          23.875854699999998
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "address": "Uttara, Dhaka, Bangladesh",
+        "name": "Home"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}
